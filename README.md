@@ -19,7 +19,3 @@ This project focuses on developing image classification models utilizing Convolu
  - Keras
  - Matplotlib for data visualization
  - LIME for Explainable AI
-
-
-
-- 
